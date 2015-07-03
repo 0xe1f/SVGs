@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="512"
+   height="301.81549"
+   id="svg3158"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="MegaROMLogo.svg">
+  <title
+     id="title14366">MegaROM Logo</title>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1236"
+     inkscape:window-height="746"
+     id="namedview13822"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1"
+     inkscape:cx="106.9252"
+     inkscape:cy="107.26518"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3158" />
+  <metadata
+     id="metadata3164">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>MegaROM Logo</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:date>12/12/2012</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Akop Karapetyan</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:rights>
+        <dc:source>http://www.cocoamsx.com/</dc:source>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>msx</rdf:li>
+            <rdf:li>megarom</rdf:li>
+            <rdf:li>cocoamsx</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3162" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     d="M 0 0 L 0 301.8125 L 512 301.8125 L 512 0 L 0 0 z M 167.125 24 L 221.8125 78.6875 L 83.6875 216.8125 L 29 162.09375 L 167.125 24 z M 298.03125 24 L 352.71875 78.6875 L 214.59375 216.8125 L 159.90625 162.09375 L 298.03125 24 z M 428.90625 24 L 483.625 78.6875 L 345.5 216.8125 L 290.78125 162.09375 L 428.90625 24 z M 180.4375 228.28125 C 194.43121 228.28125 204.42063 234.98533 205.59375 247.75 L 193.59375 247.75 C 192.50442 241.98282 187.64661 237.96875 179.9375 237.96875 C 168.9604 237.96875 163.59375 246.59978 163.59375 256.75 C 163.59375 266.74644 168.29584 276.125 180.78125 276.125 C 189.16071 276.125 195.77406 270.97573 195.1875 263.59375 L 181.4375 263.59375 L 181.4375 255.5 L 206.5 255.5 L 206.5 284.5 L 198.53125 284.5 L 198.03125 277.34375 C 193.42254 283.11093 186.54732 285.75 179.84375 285.75 C 161.99549 285.75 151.125 274.58276 151.125 257.28125 C 151.125 240.97937 162.00268 228.28125 180.4375 228.28125 z M 388.46875 228.28125 C 406.81978 228.28125 417.6875 240.97937 417.6875 257.28125 C 417.6875 273.27554 406.81978 285.75 388.46875 285.75 C 370.03393 285.75 359.125 273.27554 359.125 257.28125 C 359.125 240.97937 370.03393 228.28125 388.46875 228.28125 z M 20.75 229.59375 L 38.40625 229.59375 L 53 268.1875 L 53.15625 268.1875 L 67.0625 229.59375 L 84.75 229.59375 L 84.75 284.5 L 73.03125 284.5 L 73.03125 244.8125 L 72.84375 244.8125 L 57.59375 284.5 L 47.875 284.5 L 32.625 245.21875 L 32.46875 245.21875 L 32.46875 284.5 L 20.75 284.5 L 20.75 229.59375 z M 98 229.59375 L 142.46875 229.59375 L 142.46875 239.28125 L 110.5625 239.28125 L 110.5625 252.4375 L 139.875 252.4375 L 139.875 260.8125 L 110.5625 260.8125 L 110.5625 275.28125 L 143.0625 275.28125 L 143.0625 284.5 L 98 284.5 L 98 229.59375 z M 235.4375 229.59375 L 248.25 229.59375 L 270.71875 284.5 L 257.71875 284.5 L 253.03125 271.96875 L 230.15625 271.96875 L 225.3125 284.5 L 212.71875 284.5 L 235.4375 229.59375 z M 299.78125 229.59375 L 330.03125 229.59375 C 342.01389 229.59375 349.125 235.15245 349.125 244.6875 C 349.2088 251.22363 346.28737 256.03934 339.5 258.5 L 339.5 258.65625 C 346.20357 260.19416 348.2912 265.67278 348.375 271.59375 C 348.54259 275.28475 348.63384 281.73176 350.8125 284.5 L 338.3125 284.5 C 336.888 281.11659 336.89907 275.82056 336.3125 271.4375 C 335.39076 265.51653 333.03875 262.8125 326 262.8125 L 312.34375 262.8125 L 312.34375 284.5 L 299.78125 284.5 L 299.78125 229.59375 z M 428.40625 229.59375 L 446.09375 229.59375 L 460.6875 268.1875 L 460.84375 268.1875 L 474.75 229.59375 L 492.4375 229.59375 L 492.4375 284.5 L 480.71875 284.5 L 480.71875 244.8125 L 480.53125 244.8125 L 465.28125 284.5 L 455.5625 284.5 L 440.3125 245.21875 L 440.15625 245.21875 L 440.15625 284.5 L 428.40625 284.5 L 428.40625 229.59375 z M 388.46875 237.96875 C 376.31852 237.96875 371.625 247.36172 371.625 257.28125 C 371.625 266.81632 376.31852 276.125 388.46875 276.125 C 400.45138 276.125 405.21875 266.81632 405.21875 257.28125 C 405.21875 247.36172 400.45138 237.96875 388.46875 237.96875 z M 312.34375 238.53125 L 312.34375 254.59375 L 326.59375 254.59375 C 331.95661 254.59375 336.65625 252.20468 336.65625 246.4375 C 336.65625 240.9779 332.96215 238.53125 326.59375 238.53125 L 312.34375 238.53125 z M 241.46875 242.4375 L 233.1875 263.65625 L 250.34375 263.65625 L 241.96875 242.4375 L 241.46875 242.4375 z "
+     id="rect3311" />
+</svg>
