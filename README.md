@@ -33,7 +33,7 @@ All icons were designed with Inkscape.
 
 ## License
 
-All graphics designed by [Akop Karapetyan](http://www.akop.org/) and licensed
-under the
+All product names, logos, and brands are property of their respective owners.
+Work done by [Akop Karapetyan](http://www.akop.org/) is licensed under the
 [Creative Commons Attribution-ShareAlike](http://creativecommons.org/licenses/by-sa/4.0/legalcode)
 license.
