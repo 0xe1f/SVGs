@@ -6,6 +6,12 @@ All icons were designed with Inkscape.
 
 ## List
 
+### Logos
+
+[Tentative CocoaMSX logo](Logos/CocoaMSX-Pod.svg)
+[berryjamm logo](Logos/berryjamm.svg)
+[BlueberryMSX logo](Logos/BlueberryMSX.svg)  
+
 ### Arcade
 
 [Multicolored Happ-style arcade buttons](Arcade/HappButtons.svg)
@@ -16,7 +22,6 @@ All icons were designed with Inkscape.
 
 ### MSX
 
-[BlueberryMSX logo](MSX/BlueberryMSX.svg)  
 [Cartridge icons](MSX/CartridgeIcons.svg)  
 [Cassette icons](MSX/CassetteIcons.svg)  
 [Floppy icons](MSX/FloppyIcons.svg)  
