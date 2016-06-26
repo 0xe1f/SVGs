@@ -8,8 +8,8 @@ All icons were designed with Inkscape.
 
 ### Logos
 
-[Tentative CocoaMSX logo](Logos/CocoaMSX-Pod.svg)
-[berryjamm logo](Logos/berryjamm.svg)
+[Tentative CocoaMSX logo](Logos/CocoaMSX-Pod.svg)  
+[berryjamm logo](Logos/berryjamm.svg)  
 [BlueberryMSX logo](Logos/BlueberryMSX.svg)  
 
 ### Arcade
