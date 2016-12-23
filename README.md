@@ -6,6 +6,10 @@ All icons were designed with Inkscape.
 
 ## Project-specific
 
+### FinalBurnX
+
+[App icon](Logos/FinalBurnX.svg)  
+
 ### CocoaMSX
 
 [App icon](Logos/CocoaMSX-Pod.svg)  
@@ -36,6 +40,7 @@ All icons were designed with Inkscape.
 [MSX2 logo](MSX/MSX2Logo.svg)  
 [MSX2+ logo](MSX/MSX2PlusLogo.svg)  
 [MSX TurboR logo](MSX/MSXTurboRLogo.svg)  
+[Old Konami logo](MSX/OldKonamiLogo.svg)  
 
 ### Random
 
